@@ -11,6 +11,6 @@ This is the part packaging the bootstrap application to a native installer packa
 
 Do not checkout this GIT module separatly instead do the following:
 
-git clone --recursive git@github.com:agilhard-oss/jpackager-update4j-maven-example.git
+git clone --recursive git@github.com:bei/jpackager-update4j-maven-example.git
 
 
