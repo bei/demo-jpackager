@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>demo-jpackager</artifactId>
-  <groupId>jpackager-update4j-maven-example/</groupId>
-  <packaging>demo-jpackager</packaging>
+  <groupId>jpackager-update4j-maven-example</groupId>
+  <packaging>jpackager</packaging>
   <version>1.0.0-SNAPSHOT</version>
 
   <build>
@@ -29,7 +29,7 @@
   <dependencies>
 
     <dependency>
-      <groupId>jpackager-update4j-maven-example/</groupId>
+      <groupId>jpackager-update4j-maven-example</groupId>
       <artifactId>demo-bootstrap</artifactId>
       <version>1.0.0</version>
     </dependency>    
